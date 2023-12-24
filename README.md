@@ -3,9 +3,16 @@
 Welcome to the future of gift registries. No longer will you be subjected to watching friends and family tap around like fools on Amazon's ancient site and app designs. Join Andrew and Scott's Gift Registry, and witness the power of social gift....uh...registering. 
 
 ## Getting the App
+1. Download 64bit Git for Windows here, and install: https://git-scm.com/download/win
+2. Open Command Prompt, and type git --version, and make sure it's installed.
+3. Find a folder you'd like to store your code, and type "git clone https://github.com/ScottKnox/GiftRegistry.git"
+4. Type "git checkout features/andrewBranch" and you'll be on a branch of code all your own. You can do anything on it, and it won't mess up our main branch's code. 
 
+At this point, you can install VS Code, and open the folder containing our App's code. This editor will make it easy for ya to change things.
 
 ## App Setup
+
+Close Command Prompt. 
 
 1. Install Node on thy laptop: https://nodejs.org/en/download
 2. Add Node to thy PATH: C:\Program Files\nodejs\
